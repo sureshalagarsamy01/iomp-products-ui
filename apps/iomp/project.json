@@ -1,0 +1,9 @@
+{
+  "name": "iomp",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/iomp/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project iomp --web",
+  "targets": {}
+}
